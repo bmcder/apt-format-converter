@@ -10,7 +10,7 @@ This script ensures all APT repository source files are in the correct format by
 
 1. Download the script:  
 
-`sudo curl -L "https://github.com/bmcder/apt-format-converter/apt-format-reverter" -o $output_file /usr/local/bin/apt-format-reverter` 
+`sudo curl -L "https://raw.githubusercontent.com/bmcder/apt-format-converter/refs/heads/main/apt-format-reverter.sh" -o $output_file /usr/local/bin/apt-format-reverter` 
 
 2. Make it executable
 
