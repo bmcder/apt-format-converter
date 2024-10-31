@@ -137,7 +137,7 @@ The script is particularly useful for:
 
   
 
-IMPORTANT NOTES: 
+# IMPORTANT NOTES: 
 
 - Always run with sudo privileges 
 
@@ -151,4 +151,6 @@ IMPORTANT NOTES:
 
 - Original files are safely backed up before any modifications 
 
- 
+# Accreditation
+
+Many Thanks to Petar Ivanov for the content
